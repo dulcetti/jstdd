@@ -1,0 +1,19 @@
+{
+  "name": "jstdd",
+  "version": "1.0.0",
+  "description": "Pacote de testes do curso de JS e TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dulcetti/jstdd.git"
+  },
+  "author": "Bruno Dulcetti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dulcetti/jstdd/issues"
+  },
+  "homepage": "https://github.com/dulcetti/jstdd#readme"
+}
