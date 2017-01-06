@@ -1,0 +1,27 @@
+{
+  "name": "jstdd",
+  "version": "1.0.0",
+  "description": "Pacote de testes do curso de JS e TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dulcetti/jstdd.git"
+  },
+  "author": "Bruno Dulcetti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dulcetti/jstdd/issues"
+  },
+  "homepage": "https://github.com/dulcetti/jstdd#readme",
+  "devDependencies": {
+    "eslint": "^3.12.2",
+    "eslint-config-airbnb": "^13.0.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^2.0.0",
+    "eslint-plugin-react": "^6.8.0",
+    "husky": "^0.12.0"
+  }
+}
